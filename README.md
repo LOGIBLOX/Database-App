@@ -90,9 +90,6 @@ Create, read, update, and delete data points.
 > Click the "Delete" button to remove a data point.
 >
 
-https://github.com/filipLBX/logiblox-crud-app/assets/58737201/27c72f12-c6e7-49d7-9515-0b4747d1cf77
-
-
 
 ## Learn More
 
